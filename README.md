@@ -3,6 +3,7 @@
 
 [![PDF Preview](https://github.com/codershivam18/Sales-Overview/blob/main/preview.png?raw=true)](https://github.com/codershivam18/Sales-Overview/blob/main/Dataanalysis_completion_certificate.pdf)
 
-![Image Description](Screenshot 2025-07-02 195612.png)
+![Image Description](https://github.com/codershivam18/Sales-Overview/blob/main/Screenshot%202025-07-02%20195612.png?raw=true)
+
 
 
